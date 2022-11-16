@@ -1,0 +1,24 @@
+#error
+story-step4
+story-step4 words.txt
+story-step4 error.txt story.txt
+story-step4 words.txt error.txt
+story-step4 words.txt story.txt error.txt
+story-step4 -n words.txt
+story-step4 -n story.txt
+story-step4 -n error.txt story.txt
+story-step4 -n words.txt error.txt
+story-step4 -n words.txt story.txt error.txt
+story-step4 -a words.txt story.txt
+story-step4 -n -a words.txt story2.txt
+story-step4 -n words.txt step4_whole.txt
+story-step4 -n words.txt step3_holder_not_exist.txt
+story-step4 -n words.txt step3_holder_num_exceed.txt
+story-step4 -n words.txt step3_holder_num_start.txt
+story-step4 -n words.txt step3_holder_num_0.txt
+story-step4 step2_empty_file.txt story2.txt
+story-step4 step2_empty_line.txt story2.txt
+story-step4 -n step2_empty_file.txt story2.txt
+story-step4 -n step2_empty_line.txt story2.txt
+
+#success

@@ -1,0 +1,17 @@
+Grading at 08/31/2021:00:36:44.821512
+For commit ID b097c03575e717de1dc4f75906a47a1dbe9c8c5b
+Grading at Mon Aug 30 20:36:39 EDT 2021
+Attempting to compile breaker.c 
+gcc breaker.c -o breaker
+testcase1 passed
+#################################################
+testcase2:
+testcase2 passed
+#################################################
+testcase3:
+testcase3 passed
+#################################################
+testcase4:
+testcase4 passed
+
+Overall Grade: A

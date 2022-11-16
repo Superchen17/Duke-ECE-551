@@ -1,0 +1,15 @@
+#error
+printDailyMax
+printDailyMax population.csv
+printDailyMax population.csv invalid.csv
+printDailyMax invalid.csv daily_small.csv
+printDailyMax invalid.csv invalid.csv
+printDailyMax step4_noCountry.csv daily_small.csv
+printDailyMax population.csv  step4_dataWithSpace.csv
+
+#success
+printDailyMax population.csv daily_small.csv
+printDailyMax population.csv daily_cases.csv
+printDailyMax population.csv daily_extraLarge.csv
+printDailyMax population.csv step4_noCaseData.csv
+printDailyMax population.csv daily_equal.csv

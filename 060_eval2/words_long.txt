@@ -1,0 +1,15 @@
+animal:dragon
+animal:walrus
+place:cave
+place:pool
+place:mountain
+place:hole
+adjective:peculiar
+adjective:scary
+adjective:peaceful
+adjective:beautiful
+adjective:ugly
+adjective:cringy
+animal:bird
+animal:lion
+place:forest

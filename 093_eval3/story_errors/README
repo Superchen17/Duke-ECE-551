@@ -1,0 +1,15 @@
+1 step1_no_hash.txt
+2 step1_no_colon.txt
+3 step1_duplicate_lose.txt
+4 step1_duplicate_win.txt
+5 step1_key_not_num.txt
+6 step1_no_key.txt
+7 step1_bad_result.txt
+8 step1_no_value.txt (not an error)
+9 step1_value_space.txt (not an error)
+10 step1_empty_line_in_navi.txt
+11 step1_result_after_navi.txt
+12 step1_duplicate_key.txt (not an error)
+13 step1_strange_char.txt (not an error)
+14 empty
+15 empty line after win/lose

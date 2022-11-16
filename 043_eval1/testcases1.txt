@@ -1,0 +1,28 @@
+#error
+printCountries
+printCountries invalid.csv
+printCountries population.csv somethingelse
+printCountries population.csv population.csv 
+printCountries step1_longName.csv   
+printCountries step1_noDelimiter.csv  
+printCountries step1_onlyDelimiter.csv
+printCountries step1_emptyLine.csv
+printCountries step1_noPop.csv
+printCountries step1_popOnlyChar.csv 
+printCountries step1_name65.csv 
+printCountries step1_largeNum1.csv
+
+#success
+printCountries population.csv
+printCountries step1_name63.csv
+printCountries step1_name64.csv
+printCountries step1_strangeChar.csv
+printCountries step1_largeNum0.csv
+printCountries step1_emptyFile.csv
+printCountries step1_noCountry.csv
+printCountries step1_spaceAfterDel.csv
+printCountries step1_2Delimiter.csv
+printCountries step1_popWithChar.csv
+printCountries step1_negNum.csv
+printCountries step1_negNumWithChar.csv
+printCountries step1_trailingSpace.csv

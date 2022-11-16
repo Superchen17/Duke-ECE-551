@@ -1,0 +1,15 @@
+#error
+printCumulative
+printCumulative population.csv
+printCumulative population.csv invalid.csv
+printCumulative invalid daily_small.csv
+printCumulative invalid invalid
+printCumulative population.csv step3_negNum.csv
+printCumulative population.csv step3_emptyLine.csv
+printCumulative population.csv step3_dataWithSpace.csv
+
+#success
+printCumulative population.csv daily_small.csv
+printCumulative population.csv daily_cases.csv
+printCumulative population.csv daily_extraLarge.csv
+printCumulative population.csv step3_noCaseData.csv

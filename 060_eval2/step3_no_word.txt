@@ -1,0 +1,6 @@
+animal:
+animal:
+place:cave
+adjective:
+adjective:
+adjective:

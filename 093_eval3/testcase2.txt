@@ -1,0 +1,25 @@
+#error
+cyoa-step2
+cyoa-step2 error
+cyoa-step2 story_empty/
+cyoa-step2 story1 story1 < step2_story1_path01.txt
+cyoa-step2 story_disconnected_pages/
+cyoa-step2 story_invalid_link/
+cyoa-step2 story_no_results/
+cyoa-step2 story_invalid_file/
+cyoa-step2 story_no_page1/
+cyoa-step2 story_self_referencing/
+cyoa-step2 story_only_lose/ < step2_story_only_lose_path.txt
+cyoa-step2 story_only_win/ < step2_story_only_win_path.txt
+cyoa-step2 /usr/local/ece551/cyoa/broken1
+cyoa-step2 /usr/local/ece551/cyoa/broken2
+
+#success
+cyoa-step2 story1 < step2_story1_path01.txt
+cyoa-step2 story2 < step2_story2_path01.txt
+cyoa-step2 story1/ < step2_story1_path01.txt
+cyoa-step2 story2/ < step2_story2_path01.txt
+cyoa-step2 story_disconnected_circles < step2_story_disconnected_circle_path.txt
+cyoa-step2 story_irrelevent_page/ < step2_story_irrelevant_pages_path.txt
+cyoa-step2 /usr/local/ece551/cyoa/story-diamond-win/ < step2_diamond_path01.txt
+cyoa-step2 /usr/local/ece551/cyoa/story-diamond-win/ < step2_diamond_path02.txt

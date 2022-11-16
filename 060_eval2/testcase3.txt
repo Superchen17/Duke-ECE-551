@@ -1,0 +1,21 @@
+#error
+story-step3
+story-step3 word.txt
+story-step3 words.txt step3_holder_not_exist.txt
+story-step3 words.txt step3_holder_num_exceed.txt
+story-step3 words.txt step3_holder_num_start.txt
+story-step3 words.txt step3_holder_num_0.txt
+story-step3 words.txt story.txt error.txt
+story-step3 words.txt story2.txt error.txt
+story-step3 step2_empty_file.txt story2.txt
+story-step3 step2_empty_line.txt story2.txt
+
+#success
+story-step3 words.txt story.txt
+story-step3 words.txt story2.txt
+story-step3 words.txt step3_holder_num_right.txt
+story-step3 words.txt step1_empty_file.txt
+story-step3 words.txt step1_empty_line.txt
+story-step3 step3_no_word.txt story2.txt
+story-step3 step3_name_with_num.txt step3_holder_name_with_num.txt
+story-step3 words_long.txt story_long.txt

@@ -1,0 +1,6 @@
+3:a choice
+6:a choice
+#
+some story
+
+"Choose wisely, for your quest and your village depend on you."

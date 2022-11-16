@@ -1,0 +1,31 @@
+#error
+cyoa-step1
+cyoa-step1 error.txt
+cyoa-step1 ./story1/page1.txt ./story1/page1.txt
+cyoa-step1 story_errors/page1.txt
+cyoa-step1 story_errors/page2.txt
+cyoa-step1 story_errors/page3.txt
+cyoa-step1 story_errors/page4.txt
+cyoa-step1 story_errors/page5.txt
+cyoa-step1 story_errors/page6.txt
+cyoa-step1 story_errors/page7.txt
+cyoa-step1 story_errors/page10.txt
+cyoa-step1 story_errors/page11.txt
+cyoa-step1 story_errors/page1
+cyoa-step1 story_errors/page1.
+cyoa-step1 story_errors/page1.txx
+cyoa-step1 story_errors/page1txt
+cyoa-step1 story_errors/px1.txt
+cyoa-step1 story_errors/page1a.txt
+cyoa-step1 ./story_errors/page14.txt
+cyoa-step1 ./story_errors/page15.txt
+
+#success
+cyoa-step1 ./story1/page1.txt
+cyoa-step1 ./story1/page6.txt
+cyoa-step1 ./story1/page12.txt
+cyoa-step1 story_errors/page8.txt
+cyoa-step1 story_errors/page9.txt
+cyoa-step1 story_errors/page12.txt
+cyoa-step1 story_errors/page13.txt 
+cyoa-step1 story_errors/page01.txt

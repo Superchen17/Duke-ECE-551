@@ -1,0 +1,21 @@
+#error
+printRunningAvg
+printRunningAvg invalid.csv
+printRunningAvg population.csv
+printRunningAvg invalid.csv invalid.csv
+printRunningAvg population.csv invalid.csv
+printRunningAvg population.csv step2_char.csv
+printRunningAvg population.csv step2_emptyLine.csv
+printRunningAvg population.csv step2_float.csv
+printRunningAvg population.csv step2_negNum.csv
+printRunningAvg step2_lessCountry.csv daily_small.csv
+printRunningAvg step2_moreCountry.csv daily_small.csv
+printRunningAvg step2_emptyPop.csv daily_small.csv
+printRunningAvg population.csv step2_dataWithSpace.csv
+
+#success
+printRunningAvg population.csv daily_small.csv
+printRunningAvg population.csv daily_cases.csv
+printRunningAvg population.csv daily_extraLarge.csv
+printRunningAvg population.csv step2_lessThan7.csv
+printRunningAvg population.csv step2_sameDate.csv

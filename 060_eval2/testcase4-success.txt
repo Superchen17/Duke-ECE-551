@@ -1,0 +1,18 @@
+#error
+
+#success
+story-step4 words.txt story.txt
+story-step4 words.txt story2.txt
+story-step4 words.txt step4_whole.txt
+story-step4 words_long.txt step4_whole.txt
+story-step4 words.txt step1_empty_file.txt
+story-step4 words.txt step1_empty_line.txt
+story-step4 -n words.txt story.txt
+story-step4 -n words.txt story2.txt
+story-step4 -n words_long.txt step4_whole.txt
+story-step4 -n words_long.txt story_long.txt
+story-step4 -n words.txt step1_empty_file.txt
+story-step4 -n words_long.txt step4_empty_line.txt
+story-step4 -n step3_no_word.txt story2.txt
+story-step4 -n step4_dupl_words.txt story2.txt
+story-step4 -n step3_name_with_num.txt step3_holder_name_with_num.txt

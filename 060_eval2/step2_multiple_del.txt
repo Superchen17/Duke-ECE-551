@@ -1,0 +1,6 @@
+animal:dragon
+animal:wal:rus
+place:cave
+adjective:peculiar
+adjective:scary
+adjective:peaceful

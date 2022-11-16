@@ -1,0 +1,18 @@
+#error
+story-step1
+story-step1 error.txt
+story-step1 story.txt story.txt
+story-step1 story.txt error.txt
+story-step1 step1_odd_us.txt
+
+#success
+story-step1 story.txt
+story-step1 story2.txt
+story-step1 step1_whole.txt
+story-step1 step1_holder_with_space.txt
+story-step1 step1_holder_no_char.txt
+story-step1 step1_empty_file.txt
+story-step1 step1_empty_line.txt
+story-step1 step1_no_holder_line.txt
+story-step1 step1_no_holder_file.txt
+story-step1 step1_holders_no_space_between.txt

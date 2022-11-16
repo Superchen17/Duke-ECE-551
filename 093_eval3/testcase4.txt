@@ -1,0 +1,21 @@
+#error
+cyoa-step4
+cyoa-step4 error
+cyoa-step4 story1 story2
+cyoa-step4 story_empty/
+cyoa-step4 story_disconnected_pages/
+cyoa-step4 story_invalid_link/
+cyoa-step4 story_no_results/
+cyoa-step4 story_invalid_file/
+cyoa-step4 story_no_page1/
+cyoa-step4 story_only_lose/
+cyoa-step4 story_only_win/
+
+#success
+cyoa-step4 story1
+cyoa-step4 story2
+cyoa-step4 story_disconnected_circles/
+cyoa-step4 story_irrelevent_page
+cyoa-step4 /usr/local/ece551/cyoa/no_win/
+cyoa-step4 /usr/local/ece551/cyoa/story-diamond-win/
+cyoa-step4 /usr/local/ece551/cyoa/cycle/

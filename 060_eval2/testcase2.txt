@@ -1,0 +1,20 @@
+#error
+story-step2
+story-step2 error.txt
+story-step2 words.txt error.txt
+story-step2 words.txt words.txt
+story-step2 error.txt error1.txt
+story-step2 step2_no_del.txt
+story-step2 step2_empty_line.txt
+
+#success
+story-step2 words.txt
+story-step2 step2_multiple_del.txt
+story-step2 step2_no_name.txt
+story-step2 step2_no_word.txt
+story-step2 step2_order_shuffled.txt
+story-step2 step2_duplicate_word.txt
+story-step2 step2_strange_char.txt
+story-step2 step2_strange_char.txt
+story-step2 step2_random.txt
+story-step2 step2_only_del.txt

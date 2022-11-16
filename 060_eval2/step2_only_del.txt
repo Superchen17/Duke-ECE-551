@@ -1,0 +1,6 @@
+animal:rabbit
+animal:dragon
+:
+place:cave
+adjective:scary
+adjective:peaceful
